@@ -14,7 +14,7 @@ function convertToBool(text, fault = 'true') {
 
 // PUT YOUR SESSION ID HERE  ##Required 
 
-global.SESSION_ID = '' // PUT your session ID BY scan QR 
+global.SESSION_ID = 'QUEENNILU;;;du90wSgZ#17vTMcEuw8oTV06lD0so2ACaGav3JGRWbi6VhuZGXs8' // PUT your session ID BY scan QR 
 
 // databse URL  ##Required 
 global.POSTGRESQL_URL = ''
@@ -23,9 +23,9 @@ global.POSTGRESQL_URL = ''
 
 // ⚙️ OWNER SETTINGS  ⚙️
 
-global.OWNER_NUMBER = '94767438882'
+global.OWNER_NUMBER = '94714774737'
 
-global.OWNER_NAME = 'Janiya_X'
+global.OWNER_NAME = 'SANUKA GEENITH'
 
 global.TIMEZONE = 'Asia/Colombo' 
 
@@ -41,19 +41,19 @@ global.OPENAI_API_KEY = "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"
 ⚙️ BOT  SETTINGS  ⚙️
 */
 
-global.BOT_NAME = 'ǫᴜᴇᴇɴ ɴɪʟᴜ'
+global.BOT_NAME = '𝗦𝗚 𝗤𝗨𝗘𝗘𝗡 𝗡𝗜𝗟𝗨'
 
 global.FOOTER = 'Queen Nilu 2023'
 
 global.BOT_OFFLINE = false    //  Always Onlne -  | false offline -True
 
-global.STICKER_NAME = '@Janiya 🤹‍♂️' //sticker
+global.STICKER_NAME = '@𝚂𝙰𝙽𝚄𝙺𝙰 🤹‍♂️' //sticker
 
 global.LANG = 'EN' // Language (EN-  TO english  ,  SI- TO sinhala )
 
 global.PREFIX = '.' // Bot Prefix
 
-global.CAPTION = 'ǫᴜᴇᴇɴ ɴɪʟᴜ  © 2023' // Caption
+global.CAPTION = '𝚀𝚄𝙴𝙴𝙽 𝙽𝙸𝙻𝚄  © 2024' // Caption
 
 global.ALIVELOGO = 'https://telegra.ph/file/1e63f0ee90304a12767c7.jpg' // Set Alive Logo link 
 
